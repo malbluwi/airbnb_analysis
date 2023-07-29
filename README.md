@@ -30,7 +30,7 @@ Pandas, Numpy, Calendar, Matplotlib, Seaborn, Plotly, Scikit-Learn, IPython, Ite
 
 
 
-For more detailed analysis, go to my post on Medium post here.
+For more detailed analysis, go to my post on Medium post [here]:https://medium.com/@calbluwi/airbnb-data-analysis-1b355193f581
 
 
 ## Licensing, Authors, Acknowledgements
