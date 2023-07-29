@@ -35,7 +35,14 @@ For more detailed analysis, go to my post on Medium post [here](https://medium.c
 
 ## Licensing, Authors, Acknowledgements
 
-Data : InsideAirbnb -click [here](http://insideairbnb.com/get-the-data)
+Data : InsideAirbnb - click [here](http://insideairbnb.com/get-the-data)
+or you can go to file separately:
+##### [Boston_Listings](http://data.insideairbnb.com/united-states/ma/boston/2023-06-21/data/listings.csv.gz)
+##### [Boston_calendar](http://data.insideairbnb.com/united-states/ma/boston/2023-06-21/data/calendar.csv.gz)
+##### [Boston_reviews](http://data.insideairbnb.com/united-states/ma/boston/2023-06-21/data/reviews.csv.gz)
+##### [Seattle_Listings](http://data.insideairbnb.com/united-states/wa/seattle/2023-06-24/data/listings.csv.gz)
+##### [Seattle_calendar](http://data.insideairbnb.com/united-states/wa/seattle/2023-06-24/data/calendar.csv.gz)
+##### [Seattle_reviews](http://data.insideairbnb.com/united-states/wa/seattle/2023-06-24/data/reviews.csv.gz)
 
 
 
