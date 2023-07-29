@@ -34,7 +34,8 @@ For more detailed analysis, go to my post on Medium post here.
 
 
 ## Licensing, Authors, Acknowledgements
-  Data : InsideAirbnb -click here
+
+Data : InsideAirbnb -click [here]:http://insideairbnb.com/get-the-data/)http://insideairbnb.com/get-the-data/
 
 
 
